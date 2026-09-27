@@ -1,0 +1,51 @@
+review_text,raw_output,label,latency_sec,input_tokens,output_tokens,source
+Barang tidak berfungsi sama sekali begitu diterima.,negatif,negatif,2.0277600419999544,208,2,disk-cache
+"Sudah langganan di toko ini, kualitas selalu konsisten bagus.",positif,positif,0.8257219170000099,214,2,disk-cache
+"Suka banget sama warnanya, sesuai ekspektasi.",positif,positif,0.9756950420000976,211,2,disk-cache
+"Kualitas produk sangat memuaskan, akan order lagi.",positif,positif,0.9619037920001574,211,2,disk-cache
+"Ukuran tidak sesuai, terlalu kecil dari yang dipesan.",negatif,negatif,0.8513409170000159,211,2,disk-cache
+Sudah bayar mahal tapi kualitas jauh dari ekspektasi.,negatif,negatif,0.9417959999998402,212,2,disk-cache
+"Fast respon, pengiriman cepat, barang aman sampai tujuan.",positif,positif,0.9089814999999817,211,2,disk-cache
+"Produk palsu, bukan barang original seperti yang dijanjikan.",negatif,negatif,0.9162994999999228,213,2,disk-cache
+Komplain tidak ditanggapi sama sekali oleh penjual.,negatif,negatif,0.8669729579999057,211,2,disk-cache
+"Pengiriman lambat sekali, sudah dua minggu belum sampai.",negatif,negatif,1.0739067499998782,211,2,disk-cache
+"Bahan nyaman dipakai, ukuran pas, tidak mengecewakan.",positif,positif,1.180140792999964,213,2,disk-cache
+"Pelayanan ramah dan responsif, barang sampai lebih cepat dari estimasi.",positif,positif,0.8453355839999404,215,2,disk-cache
+"Sangat mengecewakan, uang saya seperti terbuang percuma.",negatif,negatif,0.9545776670001942,215,2,disk-cache
+"Produk original dan berfungsi dengan baik, terima kasih!",positif,positif,1.0634693749998405,210,2,disk-cache
+Pelayanan lambat dan tidak responsif saat dikomplain.,negatif,negatif,1.027437041999974,212,2,disk-cache
+Warna produk berbeda jauh dari foto di listing.,negatif,negatif,0.9098711249998814,209,2,disk-cache
+"Puas banget belanja disini, proses cepat dan barang aman.",positif,positif,1.0638796250000269,211,2,disk-cache
+"Ukuran dan warna berbeda dari pesanan, sangat kecewa.",negatif,negatif,0.9793764169999122,212,2,disk-cache
+"Sangat puas dengan pembelian ini, akan beli lagi di lain waktu.",positif,positif,0.8410055839999586,213,2,disk-cache
+"Barangnya bagus banget, sesuai foto dan pengiriman cepat!",positif,positif,1.023134250999874,211,2,disk-cache
+"Pelayanan cepat tanggap, produk berkualitas tinggi.",positif,positif,1.0511394589998417,209,2,disk-cache
+"Bahan murahan, tidak sesuai dengan harga yang dibayarkan.",negatif,negatif,0.9370388760000878,213,2,disk-cache
+"Belanja disini selalu puas, kualitas terjaga.",positif,positif,0.9511410420000175,209,2,disk-cache
+"Tidak sesuai standar, banyak cacat pada produk yang diterima.",negatif,negatif,0.908503041999893,211,2,disk-cache
+"Kualitas produk jelek, baru dipakai sekali sudah rusak.",negatif,negatif,0.8948553339998853,211,2,disk-cache
+"Produknya rapi dan bersih, tidak ada cacat sama sekali.",positif,positif,1.0883097089999865,214,2,disk-cache
+"Barang yang datang tidak sesuai dengan foto, kecewa berat.",negatif,negatif,0.9100805420000597,212,2,disk-cache
+"Barang datang lebih cepat dari perkiraan, kualitas top!",positif,positif,0.9071023750000222,211,2,disk-cache
+"Pengiriman berantakan, barang sampai dalam kondisi kotor.",negatif,negatif,0.9992847089999941,212,2,disk-cache
+"Mantap, sesuai gambar dan harga terjangkau.",positif,positif,1.0399230829998487,210,2,disk-cache
+"Barang cacat produksi, jahitan lepas di beberapa bagian.",negatif,negatif,0.9974126670001624,212,2,disk-cache
+"Kualitas premium dengan harga bersahabat, recommended!",positif,positif,1.1291604170000937,210,2,disk-cache
+"Respon cepat kalau ada pertanyaan, sangat membantu.",positif,positif,0.8178308750000269,209,2,disk-cache
+Respon penjual lambat dan terkesan tidak peduli komplain.,negatif,negatif,1.1627144180001778,215,2,disk-cache
+"Pengalaman belanja terburuk, tidak akan order lagi disini.",negatif,negatif,0.9991153759999634,212,2,disk-cache
+"Harga worth it dengan kualitas yang didapat, sangat puas.",positif,positif,0.9557396669999889,211,2,disk-cache
+Barang datang dalam kondisi rusak dan packing asal-asalan.,negatif,negatif,0.8429072090000318,212,2,disk-cache
+"Terima kasih seller, barangnya awet dan sesuai deskripsi.",positif,positif,0.9648045830001593,213,2,disk-cache
+"Packing rapi, produk sesuai deskripsi. Recommended seller!",positif,positif,0.9322719589999906,211,2,disk-cache
+"Deskripsi produk menyesatkan, jauh dari kenyataan.",negatif,negatif,0.9057344169998487,210,2,disk-cache
+"Barangnya tidak jelek, lumayan banget untuk harga segini.",positif,positif,0.9235647089999475,213,2,disk-cache
+"Wah hebat, baru sehari dipakai sudah rusak. Mantap sekali.",negatif,negatif,0.8321784170000228,212,2,disk-cache
+"Pengiriman agak lama, tapi kualitas barangnya bagus sekali.",positif,positif,0.9914574169999923,211,2,disk-cache
+"Barangnya sih oke, tapi pelayanan penjualnya bikin kapok.",negatif,negatif,0.9859785839998949,213,2,disk-cache
+"brg ori gan, mantul, pengiriman kilat",positif,positif,0.872892709000098,212,2,disk-cache
+"Nyesel beli di sini, mending cari toko lain aja.",negatif,negatif,1.033832208999911,213,2,disk-cache
+"Worth it parah, anak saya suka banget.",positif,positif,0.9472187499998199,209,2,disk-cache
+"Tidak sesuai harapan, tidak akan beli lagi.",negatif,negatif,0.962603584000135,208,2,disk-cache
+"Awalnya ragu, ternyata produknya bagus dan awet.",positif,positif,1.2279713340001308,213,2,disk-cache
+"Katanya original, ternyata KW. Zonk.",negatif,negatif,0.8041757920000236,209,2,disk-cache

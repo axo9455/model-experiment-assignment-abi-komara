@@ -1,0 +1,11 @@
+review_text,label_manual,pola,pred_classic,pred_llm,klasik_benar,llm_benar
+"Barangnya tidak jelek, lumayan banget untuk harga segini.",positif,negasi,positif,positif,True,True
+"Wah hebat, baru sehari dipakai sudah rusak. Mantap sekali.",negatif,sarkasme,negatif,negatif,True,True
+"Pengiriman agak lama, tapi kualitas barangnya bagus sekali.",positif,campuran,positif,positif,True,True
+"Barangnya sih oke, tapi pelayanan penjualnya bikin kapok.",negatif,campuran,positif,negatif,False,True
+"brg ori gan, mantul, pengiriman kilat",positif,slang,negatif,positif,False,True
+"Nyesel beli di sini, mending cari toko lain aja.",negatif,kosakata baru,positif,negatif,False,True
+"Worth it parah, anak saya suka banget.",positif,slang,positif,positif,True,True
+"Tidak sesuai harapan, tidak akan beli lagi.",negatif,negasi,positif,negatif,False,True
+"Awalnya ragu, ternyata produknya bagus dan awet.",positif,campuran,positif,positif,True,True
+"Katanya original, ternyata KW. Zonk.",negatif,slang,positif,negatif,False,True

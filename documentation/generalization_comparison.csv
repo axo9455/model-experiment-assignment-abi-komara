@@ -1,0 +1,3 @@
+Pendekatan,Accuracy,Precision (macro),Recall (macro),F1 (macro),Recall negatif,F1 negatif
+Model Klasik — teks belum pernah dilihat,0.675,0.7194,0.675,0.6577,0.45,0.5806
+LLM API — teks belum pernah dilihat,1.0,1.0,1.0,1.0,1.0,1.0

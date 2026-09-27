@@ -1,0 +1,3 @@
+Pendekatan,Butuh data berlabel & training,Waktu training,Latency per ulasan,Biaya per 1.000 ulasan (USD),Biaya per 1 juta ulasan (USD)
+Model Klasik (TF-IDF + LogReg),Ya,50 ms,0.097 ms,~0 (CPU lokal),~0 (CPU lokal)
+LLM API (gemini-3.5-flash-lite),Tidak,-,1003 ms,0.0685,68.47

@@ -1,0 +1,3 @@
+Pendekatan,Accuracy,Precision (macro),Recall (macro),F1 (macro),Recall negatif,F1 negatif
+Model Klasik (TF-IDF + LogReg),1.0,1.0,1.0,1.0,1.0,1.0
+LLM API (gemini-3.5-flash-lite),1.0,1.0,1.0,1.0,1.0,1.0

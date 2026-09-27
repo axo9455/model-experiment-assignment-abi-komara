@@ -1,0 +1,402 @@
+{
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Barang tidak berfungsi sama sekali begitu diterima.": {
+  "review_text": "Barang tidak berfungsi sama sekali begitu diterima.",
+  "raw_output": "negatif",
+  "label": "negatif",
+  "latency_sec": 2.0277600419999544,
+  "input_tokens": 208,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Sudah langganan di toko ini, kualitas selalu konsisten bagus.": {
+  "review_text": "Sudah langganan di toko ini, kualitas selalu konsisten bagus.",
+  "raw_output": "positif",
+  "label": "positif",
+  "latency_sec": 0.8257219170000099,
+  "input_tokens": 214,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Suka banget sama warnanya, sesuai ekspektasi.": {
+  "review_text": "Suka banget sama warnanya, sesuai ekspektasi.",
+  "raw_output": "positif",
+  "label": "positif",
+  "latency_sec": 0.9756950420000976,
+  "input_tokens": 211,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Kualitas produk sangat memuaskan, akan order lagi.": {
+  "review_text": "Kualitas produk sangat memuaskan, akan order lagi.",
+  "raw_output": "positif",
+  "label": "positif",
+  "latency_sec": 0.9619037920001574,
+  "input_tokens": 211,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Ukuran tidak sesuai, terlalu kecil dari yang dipesan.": {
+  "review_text": "Ukuran tidak sesuai, terlalu kecil dari yang dipesan.",
+  "raw_output": "negatif",
+  "label": "negatif",
+  "latency_sec": 0.8513409170000159,
+  "input_tokens": 211,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Sudah bayar mahal tapi kualitas jauh dari ekspektasi.": {
+  "review_text": "Sudah bayar mahal tapi kualitas jauh dari ekspektasi.",
+  "raw_output": "negatif",
+  "label": "negatif",
+  "latency_sec": 0.9417959999998402,
+  "input_tokens": 212,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Fast respon, pengiriman cepat, barang aman sampai tujuan.": {
+  "review_text": "Fast respon, pengiriman cepat, barang aman sampai tujuan.",
+  "raw_output": "positif",
+  "label": "positif",
+  "latency_sec": 0.9089814999999817,
+  "input_tokens": 211,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Produk palsu, bukan barang original seperti yang dijanjikan.": {
+  "review_text": "Produk palsu, bukan barang original seperti yang dijanjikan.",
+  "raw_output": "negatif",
+  "label": "negatif",
+  "latency_sec": 0.9162994999999228,
+  "input_tokens": 213,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Komplain tidak ditanggapi sama sekali oleh penjual.": {
+  "review_text": "Komplain tidak ditanggapi sama sekali oleh penjual.",
+  "raw_output": "negatif",
+  "label": "negatif",
+  "latency_sec": 0.8669729579999057,
+  "input_tokens": 211,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Pengiriman lambat sekali, sudah dua minggu belum sampai.": {
+  "review_text": "Pengiriman lambat sekali, sudah dua minggu belum sampai.",
+  "raw_output": "negatif",
+  "label": "negatif",
+  "latency_sec": 1.0739067499998782,
+  "input_tokens": 211,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Bahan nyaman dipakai, ukuran pas, tidak mengecewakan.": {
+  "review_text": "Bahan nyaman dipakai, ukuran pas, tidak mengecewakan.",
+  "raw_output": "positif",
+  "label": "positif",
+  "latency_sec": 1.180140792999964,
+  "input_tokens": 213,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Pelayanan ramah dan responsif, barang sampai lebih cepat dari estimasi.": {
+  "review_text": "Pelayanan ramah dan responsif, barang sampai lebih cepat dari estimasi.",
+  "raw_output": "positif",
+  "label": "positif",
+  "latency_sec": 0.8453355839999404,
+  "input_tokens": 215,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Sangat mengecewakan, uang saya seperti terbuang percuma.": {
+  "review_text": "Sangat mengecewakan, uang saya seperti terbuang percuma.",
+  "raw_output": "negatif",
+  "label": "negatif",
+  "latency_sec": 0.9545776670001942,
+  "input_tokens": 215,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Produk original dan berfungsi dengan baik, terima kasih!": {
+  "review_text": "Produk original dan berfungsi dengan baik, terima kasih!",
+  "raw_output": "positif",
+  "label": "positif",
+  "latency_sec": 1.0634693749998405,
+  "input_tokens": 210,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Pelayanan lambat dan tidak responsif saat dikomplain.": {
+  "review_text": "Pelayanan lambat dan tidak responsif saat dikomplain.",
+  "raw_output": "negatif",
+  "label": "negatif",
+  "latency_sec": 1.027437041999974,
+  "input_tokens": 212,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Warna produk berbeda jauh dari foto di listing.": {
+  "review_text": "Warna produk berbeda jauh dari foto di listing.",
+  "raw_output": "negatif",
+  "label": "negatif",
+  "latency_sec": 0.9098711249998814,
+  "input_tokens": 209,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Puas banget belanja disini, proses cepat dan barang aman.": {
+  "review_text": "Puas banget belanja disini, proses cepat dan barang aman.",
+  "raw_output": "positif",
+  "label": "positif",
+  "latency_sec": 1.0638796250000269,
+  "input_tokens": 211,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Ukuran dan warna berbeda dari pesanan, sangat kecewa.": {
+  "review_text": "Ukuran dan warna berbeda dari pesanan, sangat kecewa.",
+  "raw_output": "negatif",
+  "label": "negatif",
+  "latency_sec": 0.9793764169999122,
+  "input_tokens": 212,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Sangat puas dengan pembelian ini, akan beli lagi di lain waktu.": {
+  "review_text": "Sangat puas dengan pembelian ini, akan beli lagi di lain waktu.",
+  "raw_output": "positif",
+  "label": "positif",
+  "latency_sec": 0.8410055839999586,
+  "input_tokens": 213,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Barangnya bagus banget, sesuai foto dan pengiriman cepat!": {
+  "review_text": "Barangnya bagus banget, sesuai foto dan pengiriman cepat!",
+  "raw_output": "positif",
+  "label": "positif",
+  "latency_sec": 1.023134250999874,
+  "input_tokens": 211,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Pelayanan cepat tanggap, produk berkualitas tinggi.": {
+  "review_text": "Pelayanan cepat tanggap, produk berkualitas tinggi.",
+  "raw_output": "positif",
+  "label": "positif",
+  "latency_sec": 1.0511394589998417,
+  "input_tokens": 209,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Bahan murahan, tidak sesuai dengan harga yang dibayarkan.": {
+  "review_text": "Bahan murahan, tidak sesuai dengan harga yang dibayarkan.",
+  "raw_output": "negatif",
+  "label": "negatif",
+  "latency_sec": 0.9370388760000878,
+  "input_tokens": 213,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Belanja disini selalu puas, kualitas terjaga.": {
+  "review_text": "Belanja disini selalu puas, kualitas terjaga.",
+  "raw_output": "positif",
+  "label": "positif",
+  "latency_sec": 0.9511410420000175,
+  "input_tokens": 209,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Tidak sesuai standar, banyak cacat pada produk yang diterima.": {
+  "review_text": "Tidak sesuai standar, banyak cacat pada produk yang diterima.",
+  "raw_output": "negatif",
+  "label": "negatif",
+  "latency_sec": 0.908503041999893,
+  "input_tokens": 211,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Kualitas produk jelek, baru dipakai sekali sudah rusak.": {
+  "review_text": "Kualitas produk jelek, baru dipakai sekali sudah rusak.",
+  "raw_output": "negatif",
+  "label": "negatif",
+  "latency_sec": 0.8948553339998853,
+  "input_tokens": 211,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Produknya rapi dan bersih, tidak ada cacat sama sekali.": {
+  "review_text": "Produknya rapi dan bersih, tidak ada cacat sama sekali.",
+  "raw_output": "positif",
+  "label": "positif",
+  "latency_sec": 1.0883097089999865,
+  "input_tokens": 214,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Barang datang lebih cepat dari perkiraan, kualitas top!": {
+  "review_text": "Barang datang lebih cepat dari perkiraan, kualitas top!",
+  "raw_output": "positif",
+  "label": "positif",
+  "latency_sec": 0.9071023750000222,
+  "input_tokens": 211,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Deskripsi produk menyesatkan, jauh dari kenyataan.": {
+  "review_text": "Deskripsi produk menyesatkan, jauh dari kenyataan.",
+  "raw_output": "negatif",
+  "label": "negatif",
+  "latency_sec": 0.9057344169998487,
+  "input_tokens": 210,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Barang datang dalam kondisi rusak dan packing asal-asalan.": {
+  "review_text": "Barang datang dalam kondisi rusak dan packing asal-asalan.",
+  "raw_output": "negatif",
+  "label": "negatif",
+  "latency_sec": 0.8429072090000318,
+  "input_tokens": 212,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Packing rapi, produk sesuai deskripsi. Recommended seller!": {
+  "review_text": "Packing rapi, produk sesuai deskripsi. Recommended seller!",
+  "raw_output": "positif",
+  "label": "positif",
+  "latency_sec": 0.9322719589999906,
+  "input_tokens": 211,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Kualitas premium dengan harga bersahabat, recommended!": {
+  "review_text": "Kualitas premium dengan harga bersahabat, recommended!",
+  "raw_output": "positif",
+  "label": "positif",
+  "latency_sec": 1.1291604170000937,
+  "input_tokens": 210,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Barang yang datang tidak sesuai dengan foto, kecewa berat.": {
+  "review_text": "Barang yang datang tidak sesuai dengan foto, kecewa berat.",
+  "raw_output": "negatif",
+  "label": "negatif",
+  "latency_sec": 0.9100805420000597,
+  "input_tokens": 212,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Pengiriman berantakan, barang sampai dalam kondisi kotor.": {
+  "review_text": "Pengiriman berantakan, barang sampai dalam kondisi kotor.",
+  "raw_output": "negatif",
+  "label": "negatif",
+  "latency_sec": 0.9992847089999941,
+  "input_tokens": 212,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Terima kasih seller, barangnya awet dan sesuai deskripsi.": {
+  "review_text": "Terima kasih seller, barangnya awet dan sesuai deskripsi.",
+  "raw_output": "positif",
+  "label": "positif",
+  "latency_sec": 0.9648045830001593,
+  "input_tokens": 213,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Barang cacat produksi, jahitan lepas di beberapa bagian.": {
+  "review_text": "Barang cacat produksi, jahitan lepas di beberapa bagian.",
+  "raw_output": "negatif",
+  "label": "negatif",
+  "latency_sec": 0.9974126670001624,
+  "input_tokens": 212,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Respon cepat kalau ada pertanyaan, sangat membantu.": {
+  "review_text": "Respon cepat kalau ada pertanyaan, sangat membantu.",
+  "raw_output": "positif",
+  "label": "positif",
+  "latency_sec": 0.8178308750000269,
+  "input_tokens": 209,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Pengalaman belanja terburuk, tidak akan order lagi disini.": {
+  "review_text": "Pengalaman belanja terburuk, tidak akan order lagi disini.",
+  "raw_output": "negatif",
+  "label": "negatif",
+  "latency_sec": 0.9991153759999634,
+  "input_tokens": 212,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Respon penjual lambat dan terkesan tidak peduli komplain.": {
+  "review_text": "Respon penjual lambat dan terkesan tidak peduli komplain.",
+  "raw_output": "negatif",
+  "label": "negatif",
+  "latency_sec": 1.1627144180001778,
+  "input_tokens": 215,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Harga worth it dengan kualitas yang didapat, sangat puas.": {
+  "review_text": "Harga worth it dengan kualitas yang didapat, sangat puas.",
+  "raw_output": "positif",
+  "label": "positif",
+  "latency_sec": 0.9557396669999889,
+  "input_tokens": 211,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Mantap, sesuai gambar dan harga terjangkau.": {
+  "review_text": "Mantap, sesuai gambar dan harga terjangkau.",
+  "raw_output": "positif",
+  "label": "positif",
+  "latency_sec": 1.0399230829998487,
+  "input_tokens": 210,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Barangnya tidak jelek, lumayan banget untuk harga segini.": {
+  "review_text": "Barangnya tidak jelek, lumayan banget untuk harga segini.",
+  "raw_output": "positif",
+  "label": "positif",
+  "latency_sec": 0.9235647089999475,
+  "input_tokens": 213,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Wah hebat, baru sehari dipakai sudah rusak. Mantap sekali.": {
+  "review_text": "Wah hebat, baru sehari dipakai sudah rusak. Mantap sekali.",
+  "raw_output": "negatif",
+  "label": "negatif",
+  "latency_sec": 0.8321784170000228,
+  "input_tokens": 212,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Pengiriman agak lama, tapi kualitas barangnya bagus sekali.": {
+  "review_text": "Pengiriman agak lama, tapi kualitas barangnya bagus sekali.",
+  "raw_output": "positif",
+  "label": "positif",
+  "latency_sec": 0.9914574169999923,
+  "input_tokens": 211,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Barangnya sih oke, tapi pelayanan penjualnya bikin kapok.": {
+  "review_text": "Barangnya sih oke, tapi pelayanan penjualnya bikin kapok.",
+  "raw_output": "negatif",
+  "label": "negatif",
+  "latency_sec": 0.9859785839998949,
+  "input_tokens": 213,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|brg ori gan, mantul, pengiriman kilat": {
+  "review_text": "brg ori gan, mantul, pengiriman kilat",
+  "raw_output": "positif",
+  "label": "positif",
+  "latency_sec": 0.872892709000098,
+  "input_tokens": 212,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Nyesel beli di sini, mending cari toko lain aja.": {
+  "review_text": "Nyesel beli di sini, mending cari toko lain aja.",
+  "raw_output": "negatif",
+  "label": "negatif",
+  "latency_sec": 1.033832208999911,
+  "input_tokens": 213,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Worth it parah, anak saya suka banget.": {
+  "review_text": "Worth it parah, anak saya suka banget.",
+  "raw_output": "positif",
+  "label": "positif",
+  "latency_sec": 0.9472187499998199,
+  "input_tokens": 209,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Tidak sesuai harapan, tidak akan beli lagi.": {
+  "review_text": "Tidak sesuai harapan, tidak akan beli lagi.",
+  "raw_output": "negatif",
+  "label": "negatif",
+  "latency_sec": 0.962603584000135,
+  "input_tokens": 208,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Awalnya ragu, ternyata produknya bagus dan awet.": {
+  "review_text": "Awalnya ragu, ternyata produknya bagus dan awet.",
+  "raw_output": "positif",
+  "label": "positif",
+  "latency_sec": 1.2279713340001308,
+  "input_tokens": 213,
+  "output_tokens": 2
+ },
+ "gemini-3.5-flash-lite|T=0.0|1a94c591|Katanya original, ternyata KW. Zonk.": {
+  "review_text": "Katanya original, ternyata KW. Zonk.",
+  "raw_output": "negatif",
+  "label": "negatif",
+  "latency_sec": 0.8041757920000236,
+  "input_tokens": 209,
+  "output_tokens": 2
+ }
+}

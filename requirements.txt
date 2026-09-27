@@ -1,0 +1,10 @@
+# Model Experiment Assignment — dependencies
+# Install:  pip install -r requirements.txt
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.5
+matplotlib>=3.8
+seaborn>=0.13
+google-genai>=1.0
+python-dotenv>=1.0
+jupyter>=1.0

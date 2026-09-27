@@ -1,0 +1,11 @@
+# Rahasia — jangan pernah di-commit
+.env
+.env.*
+!.env.example
+
+# Environment & cache
+venv/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
